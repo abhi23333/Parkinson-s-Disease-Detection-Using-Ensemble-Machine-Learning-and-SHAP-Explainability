@@ -1,0 +1,2 @@
+# Parkinson-s-Disease-Detection-Using-Ensemble-Machine-Learning-and-SHAP-Explainability
+Machine learning system for Parkinson’s disease detection using UCI voice dataset. It applies XGBoost, LightGBM, and CatBoost in a soft voting ensemble with SMOTE for imbalance handling and scaling for normalization. SHAP provides interpretability. Evaluated using train-test split and 10-fold CV, achieving ~94–95% accuracy.
